@@ -1,5 +1,8 @@
 _repo: Useful-Knowledge-Vol-III-Animals-A-familiar-account-of-the-various-productions-of-nature_58118
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58118-h/images/cover.jpg
 creator:
   author:
     agent_name: Bingley, William
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '33267'
     url: http://www.gutenberg.org/2009/agents/33267
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58118#Useful-Knowledge-Vol-III-Animals-A-familiar-account-of-the-various-productions-of-nature
 gutenberg_issued: '2018-10-17'
 gutenberg_type: Text
 identifiers:
